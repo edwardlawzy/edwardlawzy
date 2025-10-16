@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Orascom Constructions**
 
-- 🌱 I’m currently learning **Nutanix, Openshift & Zabbix**
+- 🌱 I’m currently learning **Nutanix, Openshift, Zabbix & Agentic AI for DevOps**
 
 - 📫 How to reach me **edwardlawzy@gmail.com**
 
